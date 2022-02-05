@@ -4,4 +4,4 @@
 
 **Welcome to my profile!**
 
-<img alt="image header" src="https://lp-test-server.web.app/gi_profile.png"/> 
+<img alt="image header" src="https://lp-test-server.web.app/git_profile.png"/> 
