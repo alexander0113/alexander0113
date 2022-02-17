@@ -4,4 +4,4 @@
 
 **Welcome to my profile!**
 
-<img alt="image header" src="https://lp-test-server.web.app/git_banner.png"/> 
+<img alt="image header" src="https://noda-portfolio.web.app/git_banner.png"/> 
